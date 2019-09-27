@@ -1,0 +1,2 @@
+# SAPUI5_CRUD
+SAPUI5 CRUD example app
